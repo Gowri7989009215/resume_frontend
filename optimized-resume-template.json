@@ -1,0 +1,92 @@
+{
+  "contact": {
+    "name": "Full Name",
+    "phone": "+91 XXXXXXXXXX",
+    "email": "email@example.com",
+    "linkedin": "linkedin-profile-username",
+    "github": "github-username",
+    "portfolio": "portfolio-website.com",
+    "location": "City, State/Country"
+  },
+  "summary": "Highly motivated [Your Field] professional with [X] years of experience in [key skills/technologies]. Proven track record of [key achievement] through [specific projects/work]. Eager to leverage [specific skills] to drive innovation and deliver exceptional results in [target role/industry].",
+  "experience": [
+    {
+      "title": "Job Title",
+      "company": "Company Name",
+      "dates": "Month Year - Month Year",
+      "location": "City, State (Remote/On-site)",
+      "description": [
+        "Led [specific initiative] resulting in [quantifiable outcome] using [technologies/skills].",
+        "Implemented [feature/system] that improved [metric] by [X%] and reduced [another metric] by [Y%].",
+        "Collaborated with cross-functional team of [X] members to deliver [project/feature] ahead of schedule.",
+        "Optimized [process/system] leading to [cost/time savings] and enhanced user satisfaction."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Developed a [type of application] that solves [specific problem] using [key technologies]. Achieved [quantifiable result] and serves [number of users/clients]. Features include [key features 1, 2, 3].",
+      "technologies": ["Technology 1", "Technology 2", "Technology 3"],
+      "links": {
+        "live": "https://live-demo-url.com",
+        "github": "https://github.com/username/repository"
+      },
+      "highlights": [
+        "Increased [metric] by [X%] through [specific implementation]",
+        "Reduced [processing time/cost] by [Y%] using [optimization technique]",
+        "Implemented [advanced feature] that improved user engagement"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Degree Name (B.Tech/M.S./Ph.D.) in [Specialization]",
+      "university": "University/College Name",
+      "dates": "Year - Year",
+      "gpa": "CGPA: X.XX / Percentage: XX%",
+      "relevantCoursework": ["Course 1", "Course 2", "Course 3"],
+      "achievements": ["Academic achievement 1", "Academic achievement 2"]
+    }
+  ],
+  "skills": {
+    "programming": ["Python", "JavaScript", "Java", "C++", "TypeScript"],
+    "webTechnologies": ["React", "Node.js", "Express.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
+    "databases": ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    "tools": ["Git", "Docker", "AWS", "Google Cloud", "Figma", "VS Code"],
+    "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "NLP", "Computer Vision"]
+  },
+  "certifications": [
+    {
+      "name": "Certification Name",
+      "issuer": "Issuing Organization",
+      "date": "Month Year",
+      "credentialId": "ID (if applicable)"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Achievement Title",
+      "description": "Received [award/recognition] for [specific accomplishment] resulting in [impact].",
+      "date": "Month Year",
+      "organization": "Awarding Organization"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent/Professional Working/Elementary"
+    },
+    {
+      "language": "[Other Language]",
+      "proficiency": "Native/Fluent/Professional Working/Elementary"
+    }
+  ],
+  "interests": [
+    "Open Source Contribution",
+    "Technical Blogging",
+    "Competitive Programming",
+    "Machine Learning Research",
+    "Cloud Architecture"
+  ]
+}

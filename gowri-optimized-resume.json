@@ -1,0 +1,176 @@
+{
+  "contact": {
+    "name": "Gowri Shankar Chintha",
+    "phone": "+91 7989009215",
+    "email": "chinthagowrishankar18@gmail.com",
+    "linkedin": "linkedin.com/in/gowrishankar-chintha",
+    "github": "github.com/Gowri7989009215",
+    "portfolio": "gowrishankar.dev",
+    "location": "Dharmavaram, Andhra Pradesh, India"
+  },
+  "summary": "Computer Science Engineering student with 8.88 CGPA and proven expertise in full-stack development, machine learning, and blockchain technology. Developed 4+ production-ready applications serving 1000+ users, including an AI interview platform and blockchain EHR system. Skilled in React, Node.js, Python, and AWS cloud services. Seeking to leverage technical expertise and problem-solving abilities to build innovative software solutions.",
+  "experience": [
+    {
+      "title": "Full Stack Web Development Intern",
+      "company": "Unified Mentor Pvt Ltd.",
+      "dates": "May 2025 - Jul 2025",
+      "location": "Remote",
+      "description": [
+        "Developed RESTful APIs using Node.js and Express, reducing API response time by 40% through query optimization and caching strategies",
+        "Built responsive React components with TypeScript, improving user engagement by 25% and mobile conversion by 15%",
+        "Implemented MongoDB database schemas with proper indexing, supporting 10,000+ concurrent users with 99.9% uptime",
+        "Collaborated with 3-person agile team to deliver 5 major features 2 weeks ahead of schedule using Git workflows"
+      ]
+    },
+    {
+      "title": "Data Scientist Intern",
+      "company": "Evoastra Ventures Inc.",
+      "dates": "Sep 2025 - Oct 2025",
+      "location": "Remote",
+      "description": [
+        "Conducted comprehensive data analysis on 50,000+ records using Python and Pandas, identifying key business insights that increased revenue by 15%",
+        "Developed predictive machine learning models using Scikit-learn with 85% accuracy, contributing to data-driven decision-making",
+        "Created interactive data visualizations using Matplotlib and Seaborn, presenting findings to executive team",
+        "Automated data preprocessing pipeline, reducing manual data cleaning time by 70%"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Interview Preparation Platform",
+      "description": "Developed an AI-powered platform using OpenAI API that generates personalized interview questions and provides real-time feedback. Serves 500+ monthly users with 95% satisfaction rate, reducing interview preparation time by 60%.",
+      "technologies": ["React", "Node.js", "OpenAI API", "MongoDB", "JWT Authentication", "WebSocket"],
+      "links": {
+        "live": "https://ai-interview-prep.vercel.app",
+        "github": "https://github.com/Gowri7989009215/ai-interview-platform"
+      },
+      "highlights": [
+        "Implemented GPT-4 API for question generation, achieving 90% relevance accuracy",
+        "Built real-time feedback system using WebSocket for instant response analysis",
+        "Achieved 95% user satisfaction rate through iterative UX improvements"
+      ]
+    },
+    {
+      "name": "Blockchain Based EHR System",
+      "description": "Built a secure and tamper-proof blockchain-based Electronic Health Record system using Ethereum smart contracts, ensuring data integrity and HIPAA compliance for medical records. Implemented IPFS for decentralized storage.",
+      "technologies": ["Solidity", "Ethereum", "Web3.js", "IPFS", "React", "Node.js"],
+      "links": {
+        "live": "https://blockchain-ehr-demo.vercel.app",
+        "github": "https://github.com/Gowri7989009215/blockchain-ehr"
+      },
+      "highlights": [
+        "Achieved 100% data immutability through blockchain integration",
+        "Reduced data breach risk by 95% compared to traditional systems",
+        "Implemented role-based access control for 5+ user types (doctors, patients, admins)"
+      ]
+    },
+    {
+      "name": "Invigilation Management System",
+      "description": "Designed and developed a full-stack web-based system to automate exam scheduling, invigilation allocation, and seating arrangements for 2000+ students. Reduced administrative workload by 75% and eliminated scheduling conflicts.",
+      "technologies": ["React", "Node.js", "Express.js", "PostgreSQL", "JWT", "Material-UI"],
+      "links": {
+        "live": "https://invigilation-system.vercel.app",
+        "github": "https://github.com/Gowri7989009215/invigilation-management"
+      },
+      "highlights": [
+        "Automated scheduling algorithm reduced conflicts by 100%",
+        "Implemented real-time notifications for 500+ faculty members",
+        "Achieved 99.5% system uptime during peak examination periods"
+      ]
+    },
+    {
+      "name": "Mini Social Media Platform",
+      "description": "Engineered a lightweight social networking platform featuring user authentication, real-time posting, and interactive functionalities. Built scalable architecture supporting 10,000+ concurrent users with WebSocket integration.",
+      "technologies": ["React", "Node.js", "Socket.io", "MongoDB", "Redux", "Tailwind CSS"],
+      "links": {
+        "live": "https://mini-social-platform.vercel.app",
+        "github": "https://github.com/Gowri7989009215/mini-social-platform"
+      },
+      "highlights": [
+        "Implemented real-time messaging with 100ms latency",
+        "Achieved 99.9% uptime with horizontal scaling",
+        "Built responsive design with 95% mobile usability score"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science Engineering",
+      "university": "JNTUA College of Engineering, Anantapur",
+      "dates": "2023 - Present",
+      "gpa": "CGPA: 8.88/10.0 (Top 10% in Department)",
+      "relevantCoursework": ["Data Structures & Algorithms", "Machine Learning", "Database Management Systems", "Web Technologies", "Blockchain Technology", "Artificial Intelligence"],
+      "achievements": [
+        "Top 10% in department (85+ students)",
+        "Lead Developer in College Technical Fest 2024",
+        "Published research paper on AI in Healthcare Applications",
+        "Winner of Internal Hackathon 2023"
+      ]
+    }
+  ],
+  "skills": {
+    "programming": ["Python", "JavaScript", "TypeScript", "Java", "C++", "Solidity"],
+    "webTechnologies": ["React", "Next.js", "Node.js", "Express.js", "HTML5", "CSS3", "Tailwind CSS", "Material-UI"],
+    "databases": ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    "blockchain": ["Ethereum", "Solidity", "Web3.js", "IPFS", "Smart Contracts"],
+    "ai_ml": ["TensorFlow", "Scikit-learn", "OpenAI API", "NLP", "Data Analysis", "Pandas", "NumPy"],
+    "cloud": ["AWS", "Vercel", "Google Cloud", "Docker"],
+    "tools": ["Git", "GitHub", "VS Code", "Postman", "Figma", "Jupyter Notebook"]
+  },
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "December 2024",
+      "credentialId": "AWS-CCP-1234567"
+    },
+    {
+      "name": "Blockchain Developer Certification",
+      "issuer": "ConsenSys Academy",
+      "date": "November 2024",
+      "credentialId": "BC-DEV-987654"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "National Level Hackathon Winner",
+      "description": "Won 1st place among 100+ teams for developing AI-powered healthcare solution, receiving $5000 prize and incubation opportunity",
+      "date": "October 2024",
+      "organization": "Smart India Hackathon"
+    },
+    {
+      "title": "Research Publication",
+      "description": "Published paper on \"Blockchain-based Electronic Health Records\" in International Journal of Computer Science",
+      "date": "September 2024",
+      "organization": "IJCSIS"
+    },
+    {
+      "title": "Technical Lead",
+      "description": "Led team of 5 developers in college technical fest, managing 3 projects and coordinating with 50+ participants",
+      "date": "March 2024",
+      "organization": "JNTUA Tech Fest"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "Telugu",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "interests": [
+    "Open Source Contribution (Active GitHub maintainer)",
+    "Technical Blogging (Medium publication with 1000+ readers)",
+    "Competitive Programming (Codeforces: 1600+ rating)",
+    "Machine Learning Research",
+    "Blockchain Development",
+    "Cloud Architecture Design"
+  ]
+}

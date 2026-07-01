@@ -7,7 +7,7 @@
     "build": "npm run prisma:generate && next build",
     "start": "next start",
     "lint": "eslint",
-    "prisma:generate": "node -e \"const fs=require('fs');fs.mkdirSync('prisma',{recursive:true});fs.copyFileSync('../backend/prisma/schema.prisma','prisma/schema.prisma');\" && prisma generate",
+    "prisma:generate": "prisma generate",
     "prisma:studio": "npm run prisma:generate && prisma studio",
     "type-check": "tsc --noEmit"
   },
